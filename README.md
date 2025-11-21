@@ -1,2 +1,3 @@
 # Collaborative_CNN_Team_09
-CNN Model classification model -Pneumonia Detection (Chest X-Ray (Pneumonia))
+CNN Model classification model Cat-Dog classification 
+
