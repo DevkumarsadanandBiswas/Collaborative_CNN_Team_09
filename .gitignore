@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+
+# Data and models
+data/
+results/
+models/*.pth
+
+
+# VSCode
+.vscode/
+
+
+# Other
+.DS_Store
