@@ -1,9 +1,9 @@
 # Final report.md including:
 
 # 1) Base models used by both users
-# User1 base model: Simple CNN model
+User1 base model: Simple CNN model
 
-# User2 base model : resnet50 model
+User2 base model : resnet50 model
 
 # 2) Dataset descriptions
 Dataset Description: Cat vs Dog — “user1- Cat & Dog Dataset (Tong Python)” / “user2- Dogs vs Cats Redux”
