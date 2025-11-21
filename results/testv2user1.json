@@ -1,0 +1,5002 @@
+[
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1004.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1021.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1023.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1029.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.103.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.105.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1054.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1057.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1058.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1072.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1099.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1116.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1120.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1128.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1135.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1139.jpg",
+        "true": "cat",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1159.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1170.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1172.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1209.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1210.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1213.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1219.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1220.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1222.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1223.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1263.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1267.jpg",
+        "true": "cat",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1283.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1284.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1290.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1303.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1304.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1306.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1312.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1320.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1332.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1342.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1347.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1355.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1363.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1373.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1383.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1387.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1391.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1402.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1403.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1419.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1420.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1427.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1432.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1459.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1465.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1476.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1487.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1488.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1492.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1500.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1514.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1516.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1518.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.152.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1528.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1529.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1551.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1552.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1556.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1557.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1565.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1572.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1575.jpg",
+        "true": "cat",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1577.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1584.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.159.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1617.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1619.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1620.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1640.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1646.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1663.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1665.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1682.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1697.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1698.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.170.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1711.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1715.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.172.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1727.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1736.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1738.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1749.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1750.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1753.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1768.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1773.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1786.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1808.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1810.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1822.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.184.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.185.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1853.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1865.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1866.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1871.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1873.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1880.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.19.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1904.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1914.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1929.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1932.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1942.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1945.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1950.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1953.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1961.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1975.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1987.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.1988.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2009.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2028.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2030.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2051.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2053.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2056.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2068.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2076.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2080.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2085.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2099.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2102.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2109.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2132.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2148.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2162.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2210.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2218.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.222.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2224.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2238.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2239.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2242.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2245.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.225.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2268.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.227.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2277.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2282.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2286.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.229.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2292.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2304.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2311.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2325.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2332.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2333.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2340.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2341.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2349.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.235.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2361.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2364.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2366.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2378.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2384.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.240.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2413.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2416.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2423.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2443.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2452.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2462.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2493.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2496.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2507.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2510.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2527.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.256.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2563.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2566.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2577.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.259.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2597.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2599.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2631.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2644.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2659.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2663.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2666.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2689.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2705.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2721.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2732.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2733.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2737.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2741.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2753.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2758.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2770.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2775.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2787.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.28.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2803.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2815.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2818.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2819.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2823.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2836.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2837.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2844.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2850.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2857.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2869.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2871.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2872.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2880.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2887.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2906.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2934.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2939.jpg",
+        "true": "cat",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2953.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2956.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2976.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2978.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2980.jpg",
+        "true": "cat",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2992.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.2998.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3013.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3019.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3035.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3045.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3065.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3095.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3105.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3112.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3125.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3142.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3148.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3156.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3168.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3182.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3186.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3193.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3201.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3213.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3218.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3219.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.322.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3223.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3231.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3236.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3257.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3267.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3274.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3276.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3292.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3299.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3311.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3313.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.332.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3320.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3330.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3335.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.334.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3340.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3343.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3348.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3374.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3376.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3382.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3384.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3385.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3396.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3417.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3426.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3429.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3438.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3442.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3456.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.348.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3501.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3511.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3522.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3526.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3529.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3536.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.354.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3556.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3558.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3563.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3568.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3575.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3584.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.359.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3590.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3594.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3599.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.360.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3604.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3605.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3607.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3627.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3643.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3670.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3695.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3727.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3740.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3749.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3763.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3771.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3779.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.378.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3789.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3815.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3818.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3819.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3835.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3847.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3856.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3860.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.387.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3881.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3884.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3885.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3902.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3903.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3904.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3906.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3933.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3963.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3970.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3988.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.399.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3995.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.3996.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4006.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4015.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4017.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.402.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.405.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4055.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4056.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4059.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4065.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4076.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4082.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4083.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4090.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4096.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4097.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4110.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4127.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4129.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4137.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4147.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4162.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4190.jpg",
+        "true": "cat",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4191.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.42.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4203.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4237.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4243.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4261.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4262.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4267.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4272.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4277.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4278.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4290.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.43.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4308.jpg",
+        "true": "cat",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4315.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4319.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4325.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4326.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4332.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4343.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4354.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4360.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.437.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4386.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4388.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4399.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4427.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4428.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4435.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4441.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4442.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4469.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.447.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4489.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4490.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4494.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4495.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4505.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4523.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4590.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4595.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4602.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4604.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4646.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4650.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4656.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4668.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4671.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4680.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4702.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4708.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4709.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4711.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4716.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4724.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4729.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.474.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4755.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4759.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.476.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4765.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4772.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4778.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4779.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4783.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4784.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4786.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4787.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4793.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4819.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4829.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4836.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4851.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4860.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4861.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4863.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4868.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4873.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4884.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4894.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4905.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4906.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4927.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4931.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4936.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4960.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4961.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.4965.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.497.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.504.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.508.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.529.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.538.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.552.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.553.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.560.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.561.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.578.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.582.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.585.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.59.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.590.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.603.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.625.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.626.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.627.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.628.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.644.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.653.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.711.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.732.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.746.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.747.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.76.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.764.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.765.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.766.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.780.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.787.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.797.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.798.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.805.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.808.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.822.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.849.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.855.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.867.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.878.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.882.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.894.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.895.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.897.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.903.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.909.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.914.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.924.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.947.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.952.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.961.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.963.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\cat\\cat.976.jpg",
+        "true": "cat",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.102.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1024.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1027.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1028.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1034.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1063.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1074.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1077.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1086.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1088.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1093.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1095.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.110.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1112.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1130.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1144.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1146.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.117.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1189.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1191.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1192.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1204.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1216.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1220.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1233.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1258.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1260.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1277.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.128.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1281.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1286.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.129.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1296.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1305.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1306.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1312.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1319.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1322.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1324.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1329.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1373.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1376.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.140.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1404.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1412.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1414.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1431.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1444.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1451.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1458.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1471.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1486.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1494.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1498.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1512.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1523.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1529.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1531.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1536.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1537.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1545.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1547.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1557.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1563.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1566.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1576.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1596.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.161.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1612.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1624.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1630.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1631.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1633.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1648.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1660.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1668.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1673.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1676.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1696.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1714.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1719.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1726.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1736.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1739.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1746.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.175.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1756.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1760.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1766.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1768.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1776.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1787.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1796.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1813.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1826.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1828.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1829.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.184.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1854.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1861.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.187.jpg",
+        "true": "dog",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1871.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1876.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1879.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1886.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1895.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1898.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1917.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1923.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1924.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1932.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1943.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1947.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1949.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.195.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.196.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1963.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1977.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1980.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.1982.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2011.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2027.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2030.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2050.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2052.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2055.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2060.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2063.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2078.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2081.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2082.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2088.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2091.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.210.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2100.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2124.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.213.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2133.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2149.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2150.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2156.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2165.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2172.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2173.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2175.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2193.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.220.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2201.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2204.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2208.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2211.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2217.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2237.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2242.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2246.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2249.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2252.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2267.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.229.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2290.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2315.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2316.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2317.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2392.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.24.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2422.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2429.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2434.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2435.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2442.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2453.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2461.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2469.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.247.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2473.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.248.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2480.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2487.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2491.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2493.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2499.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2541.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2553.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2559.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2568.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2600.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2602.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2603.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2606.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2613.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2628.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2634.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2641.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2648.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2652.jpg",
+        "true": "dog",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2657.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2658.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2662.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2663.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2690.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2692.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2705.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2718.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2722.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2727.jpg",
+        "true": "dog",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2729.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2770.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2771.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2773.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2778.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2782.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2851.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2857.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2872.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2888.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2894.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2901.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2902.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2905.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2906.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2907.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2909.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2917.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2945.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2950.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2954.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2956.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2959.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.2987.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.30.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3002.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.301.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3010.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3018.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3021.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3024.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3028.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3036.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.305.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3055.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3070.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3075.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3091.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3100.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3122.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3138.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3160.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.317.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3173.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3178.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3210.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3211.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3217.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3225.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3239.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3240.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3262.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3263.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3275.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3282.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3283.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3300.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3301.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.331.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3315.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3330.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3346.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3351.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3367.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3386.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3390.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3395.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3398.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3437.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.344.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3452.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3459.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3469.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3480.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3481.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3485.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3487.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.351.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3533.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3534.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3550.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3554.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3562.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3569.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3572.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3575.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3578.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3580.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.359.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3602.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3607.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3616.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3619.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3621.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3622.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3628.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3636.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3642.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3652.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3662.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3663.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3686.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3687.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3688.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.369.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3692.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.37.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3709.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.372.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3723.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3732.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3738.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3750.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3756.jpg",
+        "true": "dog",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3766.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3777.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3779.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3793.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3807.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.381.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3812.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3839.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3843.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.386.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3867.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3887.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3893.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3894.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3901.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3905.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.391.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3916.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3935.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3940.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3942.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3946.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3954.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3963.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3967.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.398.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.3993.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4001.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4002.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4012.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.403.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4039.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4045.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4047.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4051.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4103.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4105.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4106.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4110.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4115.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4119.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4135.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4161.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4168.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4171.jpg",
+        "true": "dog",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4193.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4196.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4214.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4236.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.424.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4243.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4252.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4256.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4267.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4272.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4288.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.43.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4302.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4304.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4316.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4318.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4324.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4326.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4335.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4345.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.435.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4363.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4383.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4392.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4395.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4404.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4407.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4413.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.442.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4420.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4423.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4428.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4432.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4440.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4444.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4449.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4450.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4475.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4489.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4502.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4503.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4525.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4528.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4529.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4537.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4549.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4552.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4554.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4564.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.457.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4581.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4583.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4587.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.459.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4605.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4610.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4618.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4624.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4638.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4649.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4651.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4655.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4664.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4676.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4678.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4688.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4706.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4712.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4726.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4731.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4733.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.474.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4757.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4761.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4779.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4784.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4790.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4798.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4835.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4838.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4849.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4862.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4877.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4882.jpg",
+        "true": "dog",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.489.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4898.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4899.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4904.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4908.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4924.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4983.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.4997.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.5.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.504.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.509.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.512.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.53.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.537.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.546.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.55.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.558.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.566.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.587.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.591.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.629.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.638.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.655.jpg",
+        "true": "dog",
+        "pred": "cat"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.677.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.726.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.737.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.743.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.756.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.758.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.768.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.781.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.782.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.793.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.797.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.799.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.8.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.812.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.838.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.842.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.85.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.900.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.922.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.926.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.93.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.933.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.943.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.946.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.951.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.980.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.986.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.990.jpg",
+        "true": "dog",
+        "pred": "dog"
+    },
+    {
+        "file": "D:/PROJECT/Collaborative_CNN_Team_09/data/test\\dog\\dog.996.jpg",
+        "true": "dog",
+        "pred": "dog"
+    }
+]
