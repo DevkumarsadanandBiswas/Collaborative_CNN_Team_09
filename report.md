@@ -1,3 +1,8 @@
+# Link to the base GitHub repository (created by User 1).
+https://github.com/DevkumarsadanandBiswas/Collaborative_CNN_Team_09
+# Link to User 2s fork and both merged Pull Requests.
+https://github.com/srijamo/Collaborative_CNN_Team_09
+
 # Final report.md including:
 
 # 1) Base models used by both users
@@ -40,7 +45,7 @@ user1- training
 | **4**     | 0.4003         | 0.8141        | 0.8141       | 0.4837       | 0.7647      | 0.7645     |
 | **5**     | 0.3339         | 0.8500        | 0.8500       | 0.5177       | 0.7756      | 0.7754     |
 
-user1- testing on user2 dataset
+user1- testing on user2 model
 | **Metric**        | **Value**  |
 | ----------------- | ---------- |
 | **Test Accuracy** | **0.7756** |
@@ -53,20 +58,21 @@ user2 -training
 | **Correct / Total** | 1973 / 2001 |
 | **Average Loss**    | 4.2053e-11  |
 
-user2 -testing on user1 dataset
-| **Class**            | **Precision** | **Recall** | **F1-Score** | **Support** |
-| -------------------- | ------------- | ---------- | ------------ | ----------- |
-| **Cat**              | 0.99          | 0.99       | 0.99         | 500         |
-| **Dog**              | 0.99          | 0.99       | 0.99         | 500         |
-| **Overall Accuracy** | 0.99          | —          | —            | 1000        |
-| **Macro Avg**        | 0.99          | 0.99       | 0.99         | 1000        |
-| **Weighted Avg**     | 0.99          | 0.99       | 0.99         | 1000        |
+user2 -testing on user1 model
+| **Class**        | **Precision** | **Recall** | **F1-Score** | **Support** |
+| ---------------- | ------------- | ---------- | ------------ | ----------- |
+| **Cat**          | 0.07          | 0.03       | 0.04         | 500         |
+| **Dog**          | 0.40          | 0.64       | 0.49         | 500         |
+| **Accuracy**     | 0.34          | —          | —            | 1000        |
+| **Macro Avg**    | 0.23          | 0.34       | 0.26         | 1000        |
+| **Weighted Avg** | 0.23          | 0.34       | 0.26         | 1000        |
+
 
 Confusion Matrix (Tabular Format)
 | **Actual \ Predicted** | **Cat** | **Dog** |
 | ---------------------- | ------- | ------- |
-| **Cat**                | 493     | 7       |
-| **Dog**                | 7       | 493     |
+| **Cat**                | 13      | 487     |
+| **Dog**                | 178     | 322     |
 
 
 # 4) Observations on generalization and domain shift
